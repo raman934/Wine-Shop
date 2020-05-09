@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>wine</item>
+        <item>beer</item>
+        <item>liquor</item>
+    </string-array>
+
+    <string-array name="type1">
+        <item>White</item>
+        <item>Red</item>
+        <item>Rose</item>
+    </string-array>
+
+    <string-array name="type2">
+        <item>Lager</item>
+        <item>Ale</item>
+        <item>Cider</item>
+    </string-array>
+
+    <string-array name="type3">
+        <item>Vodka</item>
+        <item>Whiskey</item>
+        <item>Gin</item>
+    </string-array>
+
+    <string-array name="owner">
+        <item>Owner</item>
+        <item>customer</item>
+    </string-array>
+
+</resources>

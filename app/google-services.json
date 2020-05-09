@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493073420600",
+    "firebase_url": "https://wineshop-ccf8f.firebaseio.com",
+    "project_id": "wineshop-ccf8f",
+    "storage_bucket": "wineshop-ccf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493073420600:android:272fd069d91133bf5471cd",
+        "android_client_info": {
+          "package_name": "com.example.android.wineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493073420600-v279ea74ksefdcia95u5dudf65uab5vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbm287ccgRw0TGKKk31m7f7tHRUyaHLJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493073420600-v279ea74ksefdcia95u5dudf65uab5vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
